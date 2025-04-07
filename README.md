@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Fiori 👋
 
-- 🔭 Aluno da PUCPR/Ciência da Computação 5° Período
+- 🔭 Aluno da PUCPR/Ciência da Computação 7° Período
 - 🌱 Atualmente estudando e realizando projetos e pesquisas da faculdade
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/gustavofiori/)
