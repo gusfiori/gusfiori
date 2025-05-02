@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Fiori 👋
 
 - 🔭 Aluno da PUCPR/Ciência da Computação 7° Período
-- 🌱 Atualmente estudando e realizando projetos e pesquisas da faculdade
+- 🌱 Pesquisador em Mineração e Fluxo de Dados, atuando na área de Inteligência Artificial na Celepar.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/gustavofiori/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofiori/)
