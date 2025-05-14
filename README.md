@@ -1,2 +1,2 @@
 # 👋 Hello! My name is Gustavo!
-![avataaars](https://github.com/user-attachments/assets/44ec43ea-57f3-48f0-a414-da4bf8f116a6)
+<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
