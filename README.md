@@ -1,3 +1,4 @@
 # 👋 Hello! My name is Gustavo!
-<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-https://tenor.com/pt-BR/view/ngoding-mulu-gif-1747207714643625346
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/32ca8ee6-7a78-453a-a9a0-22cfcd632281)
+
+## a
