@@ -1,33 +1,61 @@
-### Olá! Eu sou o Gustavo Fiori 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gusfiori/gusfiori/main/assets/banner-crt.gif" width="80%" alt="banner"/>
+</p>
 
-- 🔭 Aluno da PUCPR/Ciência da Computação 7° Período
-- 🌱 Pesquisador em Mineração e Fluxo de Dados, atuando na área de Inteligência Artificial na Celepar.
+<h1 align="center">Olá, eu sou Gustavo — <code>{ Dev · ML · Coffee }</code> ☕️</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/gustavofiori/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofiori/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:seu@email"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=<user>&style=for-the-badge"/>
+</p>
 
-![gusfiori GitHub stats](https://github-readme-stats.vercel.app/api?username=gusfiori&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusfiori&hide_progress=true)
+---
 
+## 👾 Quem sou eu?
+- 🎓 **Graduando em Ciência da Computação** — PUC-PR (6º período)  
+- 🏛️ **Estagiário em IA generativa** na CELEPAR  
+- 💡 Construindo chatbots, modelos de fraude bancária e projetos open-source com *Python*, *Docker* e *Cloud*  
+- 🌱 Estudando *Data Science* e *Construção de Interpretadores*  
+- 📝 Última falha épica: “deployei” um modelo sem normalizar features e criei um **classificador narcisista** — só dava label 0. 😅  
 
+---
 
-## Tecnologias que eu uso no meu dia
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-EF7C00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
-</div><br/>
+---
 
-Explorando o universo da tecnologia com paixão, na busca incessante de me tornar um programador excepcional.
+## 🚀 Projetos em Destaque
+| ⭐ | Projeto | Tech | Descrição |
+|---|---------|------|-----------|
+| `🔒` | **FraudML** | `scikit-learn · pandas · Docker` | Pipeline de detecção de fraude bancária com treino em dados sintéticos e *explainability* via SHAP. |
+| `🎮` | **Jogo da Velha 4×4** | `Python · IA · Alfa-Beta` | Agentes competitivos (Random, Minimax, Alfa-Beta) em tabuleiro 4×4; log de jogadas e heurística custom. |
+| `🤖` | **OpenChatOps** | `LangChain · FastAPI` | Plataforma de RAG para chatbots plug-and-play em Cortex XSOAR. |
 
-##
+---
 
+## 📊 Estatísticas
+<p align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=<user>&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<user>&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
+## 🗺️ Roadmap 2025
+- [ ] Concluir TCC sobre fraude bancária 🏦  
+- [ ] Lançar SaaS de *AI Prompt Analytics* (MVP) ☁️  
+- [ ] Publicar um artigo científico **aceito** (não só submetido!) ✍️  
+- [ ] Correr 10 km sem parar 🏃‍♂️  
 
+---
 
+## ⚖️ Licença
+Conteúdo licenciado sob **MIT** — use, adapte, remixe e credite!  
