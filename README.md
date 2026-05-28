@@ -61,18 +61,6 @@ Evaluated the ARE algorithm against 8 ensemble competitors across datasets with 
 
 ---
 
-### Stats
-
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusfiori&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusfiori&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>Curitiba, Brasil</sub>
 </div>
